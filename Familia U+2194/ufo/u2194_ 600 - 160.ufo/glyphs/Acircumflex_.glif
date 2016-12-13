@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflex" format="1">
+  <advance width="1020"/>
+  <unicode hex="00C2"/>
+  <outline>
+    <contour>
+      <point x="810" y="-164" type="curve" smooth="yes"/>
+      <point x="896" y="-164"/>
+      <point x="970" y="-90"/>
+      <point x="970" y="-4" type="curve" smooth="yes"/>
+      <point x="970" y="360" type="line" smooth="yes"/>
+      <point x="970" y="395"/>
+      <point x="951" y="444"/>
+      <point x="928" y="469" type="curve" smooth="yes"/>
+      <point x="652" y="768" type="line"/>
+      <point x="810" y="768" type="line" smooth="yes"/>
+      <point x="896" y="768"/>
+      <point x="970" y="842"/>
+      <point x="970" y="928" type="curve" smooth="yes"/>
+      <point x="970" y="1014"/>
+      <point x="896" y="1088"/>
+      <point x="810" y="1088" type="curve" smooth="yes"/>
+      <point x="210" y="1088" type="line" smooth="yes"/>
+      <point x="124" y="1088"/>
+      <point x="50" y="1014"/>
+      <point x="50" y="928" type="curve" smooth="yes"/>
+      <point x="50" y="842"/>
+      <point x="124" y="768"/>
+      <point x="210" y="768" type="curve" smooth="yes"/>
+      <point x="231" y="768" type="line"/>
+      <point x="70" y="276" type="line" smooth="yes"/>
+      <point x="29" y="149"/>
+      <point x="124" y="43"/>
+      <point x="254" y="69" type="curve" smooth="yes"/>
+      <point x="650" y="150" type="line"/>
+      <point x="650" y="-4" type="line" smooth="yes"/>
+      <point x="650" y="-90"/>
+      <point x="724" y="-164"/>
+    </contour>
+    <contour>
+      <point x="460" y="438" type="line"/>
+      <point x="476" y="487" type="line"/>
+      <point x="511" y="448" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

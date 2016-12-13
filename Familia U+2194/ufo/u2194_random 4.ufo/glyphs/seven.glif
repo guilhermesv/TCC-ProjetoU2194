@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="725"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="340" y="-30" type="curve" smooth="yes"/>
+      <point x="667" y="462" type="line" smooth="yes"/>
+      <point x="682" y="485"/>
+      <point x="675" y="516"/>
+      <point x="651" y="531" type="curve" smooth="yes"/>
+      <point x="144" y="839" type="line" smooth="yes"/>
+      <point x="138" y="843"/>
+      <point x="127" y="846"/>
+      <point x="119" y="846" type="curve" smooth="yes"/>
+      <point x="99" y="846" type="line" smooth="yes"/>
+      <point x="73" y="846"/>
+      <point x="50" y="823"/>
+      <point x="50" y="797" type="curve" smooth="yes"/>
+      <point x="50" y="771"/>
+      <point x="73" y="748"/>
+      <point x="99" y="748" type="curve" smooth="yes"/>
+      <point x="105" y="748" type="line"/>
+      <point x="557" y="473" type="line"/>
+      <point x="258" y="24" type="line" smooth="yes"/>
+      <point x="244" y="2"/>
+      <point x="250" y="-29"/>
+      <point x="272" y="-44" type="curve" smooth="yes"/>
+      <point x="294" y="-58"/>
+      <point x="325" y="-52"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

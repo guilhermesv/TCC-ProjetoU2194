@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccedilla" format="1">
+  <advance width="774"/>
+  <unicode hex="00E7"/>
+  <outline>
+    <contour>
+      <point x="274" y="77" type="curve" smooth="yes"/>
+      <point x="692" y="162" type="line" smooth="yes"/>
+      <point x="713" y="166"/>
+      <point x="727" y="188"/>
+      <point x="723" y="209" type="curve" smooth="yes"/>
+      <point x="719" y="230"/>
+      <point x="697" y="244"/>
+      <point x="676" y="240" type="curve" smooth="yes"/>
+      <point x="293" y="163" type="line"/>
+      <point x="147" y="638" type="line"/>
+      <point x="678" y="561" type="line" smooth="yes"/>
+      <point x="700" y="558"/>
+      <point x="720" y="574"/>
+      <point x="724" y="595" type="curve" smooth="yes"/>
+      <point x="727" y="617"/>
+      <point x="711" y="637"/>
+      <point x="690" y="641" type="curve" smooth="yes"/>
+      <point x="96" y="727" type="line" smooth="yes"/>
+      <point x="65" y="731"/>
+      <point x="43" y="705"/>
+      <point x="52" y="675" type="curve" smooth="yes"/>
+      <point x="228" y="104" type="line" smooth="yes"/>
+      <point x="234" y="85"/>
+      <point x="254" y="73"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

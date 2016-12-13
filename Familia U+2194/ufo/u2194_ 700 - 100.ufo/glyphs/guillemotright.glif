@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="1">
+  <advance width="500"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="250" y="401" type="curve" smooth="yes"/>
+      <point x="250" y="455"/>
+      <point x="204" y="501"/>
+      <point x="150" y="501" type="curve" smooth="yes"/>
+      <point x="96" y="501"/>
+      <point x="50" y="455"/>
+      <point x="50" y="401" type="curve" smooth="yes"/>
+      <point x="50" y="1" type="line" smooth="yes"/>
+      <point x="50" y="-53"/>
+      <point x="96" y="-99"/>
+      <point x="150" y="-99" type="curve" smooth="yes"/>
+      <point x="204" y="-99"/>
+      <point x="250" y="-53"/>
+      <point x="250" y="1" type="curve" smooth="yes"/>
+      <point x="250" y="-53"/>
+      <point x="296" y="-99"/>
+      <point x="350" y="-99" type="curve" smooth="yes"/>
+      <point x="404" y="-99"/>
+      <point x="450" y="-53"/>
+      <point x="450" y="1" type="curve" smooth="yes"/>
+      <point x="450" y="401" type="line" smooth="yes"/>
+      <point x="450" y="455"/>
+      <point x="404" y="501"/>
+      <point x="350" y="501" type="curve" smooth="yes"/>
+      <point x="296" y="501"/>
+      <point x="250" y="455"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

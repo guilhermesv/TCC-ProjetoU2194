@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="400"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="250" y="483" type="curve" smooth="yes"/>
+      <point x="304" y="483"/>
+      <point x="350" y="529"/>
+      <point x="350" y="583" type="curve" smooth="yes"/>
+      <point x="350" y="592" type="line" smooth="yes"/>
+      <point x="350" y="646"/>
+      <point x="304" y="692"/>
+      <point x="250" y="692" type="curve" smooth="yes"/>
+      <point x="196" y="692"/>
+      <point x="150" y="646"/>
+      <point x="150" y="592" type="curve" smooth="yes"/>
+      <point x="150" y="583" type="line" smooth="yes"/>
+      <point x="150" y="529"/>
+      <point x="196" y="483"/>
+    </contour>
+    <contour>
+      <point x="150" y="-108" type="curve" smooth="yes"/>
+      <point x="250" y="-108" type="line" smooth="yes"/>
+      <point x="305" y="-108"/>
+      <point x="350" y="-63"/>
+      <point x="350" y="-8" type="curve" smooth="yes"/>
+      <point x="350" y="192" type="line" smooth="yes"/>
+      <point x="350" y="246"/>
+      <point x="304" y="292"/>
+      <point x="250" y="292" type="curve" smooth="yes"/>
+      <point x="196" y="292"/>
+      <point x="150" y="246"/>
+      <point x="150" y="192" type="curve" smooth="yes"/>
+      <point x="150" y="92" type="line" smooth="yes"/>
+      <point x="96" y="92"/>
+      <point x="50" y="46"/>
+      <point x="50" y="-8" type="curve" smooth="yes"/>
+      <point x="50" y="-62"/>
+      <point x="96" y="-108"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="1">
+  <advance width="599"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="536" y="-52" type="curve" smooth="yes"/>
+      <point x="563" y="-5"/>
+      <point x="546" y="58"/>
+      <point x="499" y="85" type="curve" smooth="yes"/>
+      <point x="279" y="211" type="line"/>
+      <point x="539" y="755" type="line" smooth="yes"/>
+      <point x="563" y="804"/>
+      <point x="541" y="865"/>
+      <point x="492" y="888" type="curve" smooth="yes"/>
+      <point x="443" y="912"/>
+      <point x="382" y="890"/>
+      <point x="359" y="841" type="curve" smooth="yes"/>
+      <point x="59" y="213" type="line" smooth="yes"/>
+      <point x="37" y="167"/>
+      <point x="55" y="109"/>
+      <point x="100" y="83" type="curve" smooth="yes"/>
+      <point x="399" y="-89" type="line" smooth="yes"/>
+      <point x="446" y="-116"/>
+      <point x="509" y="-99"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

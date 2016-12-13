@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="section" format="1">
+  <advance width="833"/>
+  <unicode hex="00A7"/>
+  <outline>
+    <contour>
+      <point x="525" y="227" type="move"/>
+      <point x="566" y="252"/>
+      <point x="598" y="302"/>
+      <point x="598" y="403" type="curve"/>
+      <point x="598" y="403" type="line"/>
+      <point x="-2" y="603" type="line"/>
+      <point x="-2" y="805"/>
+      <point x="127" y="803"/>
+      <point x="198" y="803" type="curve"/>
+      <point x="398" y="803" type="line"/>
+      <point x="600" y="803"/>
+      <point x="598" y="674"/>
+      <point x="598" y="603" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="71" y="579" type="move"/>
+      <point x="30" y="554"/>
+      <point x="-2" y="504"/>
+      <point x="-2" y="403" type="curve"/>
+      <point x="598" y="203" type="line" smooth="yes"/>
+      <point x="598" y="1"/>
+      <point x="469" y="3"/>
+      <point x="398" y="3" type="curve"/>
+      <point x="198" y="3" type="line"/>
+      <point x="-4" y="3"/>
+      <point x="-2" y="132"/>
+      <point x="-2" y="203" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="760"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="670" y="-2" type="curve" smooth="yes"/>
+      <point x="710" y="588" type="line"/>
+      <point x="710" y="800" type="line" smooth="yes"/>
+      <point x="710" y="816"/>
+      <point x="696" y="830"/>
+      <point x="680" y="830" type="curve" smooth="yes"/>
+      <point x="664" y="830"/>
+      <point x="650" y="816"/>
+      <point x="650" y="800" type="curve" smooth="yes"/>
+      <point x="650" y="592" type="line"/>
+      <point x="613" y="42" type="line"/>
+      <point x="110" y="221" type="line"/>
+      <point x="110" y="800" type="line" smooth="yes"/>
+      <point x="110" y="816"/>
+      <point x="96" y="830"/>
+      <point x="80" y="830" type="curve" smooth="yes"/>
+      <point x="64" y="830"/>
+      <point x="50" y="816"/>
+      <point x="50" y="800" type="curve" smooth="yes"/>
+      <point x="50" y="200" type="line"/>
+      <point x="50" y="188"/>
+      <point x="59" y="176"/>
+      <point x="70" y="172" type="curve" smooth="yes"/>
+      <point x="630" y="-28" type="line" smooth="yes"/>
+      <point x="650" y="-35"/>
+      <point x="669" y="-23"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

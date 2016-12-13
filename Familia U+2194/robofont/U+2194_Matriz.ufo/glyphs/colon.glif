@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="1">
+  <advance width="833"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="331" y="1" type="move"/>
+      <point x="331" y="1"/>
+      <point x="331" y="5"/>
+      <point x="331" y="5" type="curve"/>
+    </contour>
+    <contour>
+      <point x="329" y="583" type="move"/>
+      <point x="329" y="592" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>330</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>
