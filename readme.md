@@ -6,6 +6,8 @@ O TCC "O experimental na produção de tipos digitais" estuda como projetos de d
 - A familía tipográfica U+2194 que possui diversas variações geradas dinamicamente a partir de código utilizando o programa RoboFont;
 - Uma instalação interativa que altera dinamicamente as variações da tipografia de acordo com o posicionamento do usuário, quantidades de pessoas e ruído no espaço expositivo;
 
+Uma visão ampla do projeto pode ser vista no vídeo: https://vimeo.com/148802712.
+
 Todos os códigos produzidos para confecção da tipografia e instalação estão disponíveis nesse repositório.
 
 Na pasta documentação é possível encontrar toda a parte teórica do trabalho.
@@ -22,4 +24,4 @@ Thiago Correia Guerreiro
 
 **Com orientação dos professores:**
 
-Claudio Ferlauto e Luciano rosa
+Cláudio Ferlauto e Luciano Abreu
