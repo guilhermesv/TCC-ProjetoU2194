@@ -8,9 +8,9 @@ O TCC "O experimental na produção de tipos digitais" estuda como projetos de d
 
 Uma visão ampla do projeto pode ser vista no vídeo: https://vimeo.com/148802712.
 
-Todos os códigos produzidos para confecção da tipografia e instalação estão disponíveis nesse repositório.
+Todos os códigos produzidos para confecção da tipografia e instalação estão disponíveis nesse repositório. Foram utilizados os programas: RoboFont, Processing e Nodebox.
 
-Na pasta documentação é possível encontrar toda a parte teórica do trabalho.
+Na pasta documentação é possível encontrar toda a parte teórica do trabalho. Para mais imagens do projeto visite: https://www.behance.net/gallery/46559581/U2194
 
 **O projeto foi produzido por:**
 
