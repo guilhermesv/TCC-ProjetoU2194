@@ -54,7 +54,7 @@ def simple(min_distance, pointList):
             
                 # verifica a distância entre último ponto desenhado e o próximo na lista,
                 # se for maior que a distância minima desenha o ponto, se não for
-                # atualiza o valor do analisa o proximo ponto
+                # atualiza o valor e analisa o proximo ponto
                 next_point = pointList[index+1]
                 distance_point = (dist(last_draw_point, next_point))
                 if distance_point > min_distance:
